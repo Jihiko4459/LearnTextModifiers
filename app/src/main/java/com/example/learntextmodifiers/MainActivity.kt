@@ -42,7 +42,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun LaernTextAndModifiers(){
 
-    val clickOnText = {}
+    val clickOnText = {}//просто действие для примера
 
     Text(//функция для создания TextView
         //Модификатор - это часть параметров составной функции,
